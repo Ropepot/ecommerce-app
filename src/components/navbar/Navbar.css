@@ -20,10 +20,11 @@ body {
 
 .nav_logo p{
     color: #171717;
-    font-family: 'Poppins', sans-serif;
     font-weight: 600; 
     font-size: 18px;  
-     margin: 0;
+    margin: 0;
+    font-family: 'poppins';
+    
     
 }
 
@@ -66,12 +67,13 @@ body {
     width: 100px;
     padding: 8px 16px;
     font-size: 16px;
-    color: none;
+    color: #626262;
     border: 1px solid #7a7a7a;
     border-radius: 30px;
     cursor: pointer;
     background: white;
     transition: background-color 0.2s ease;
+    font-family: 'poppins';
   }
   
   .nav-login-cart button:hover {
